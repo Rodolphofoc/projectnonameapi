@@ -12,5 +12,7 @@ namespace project.noname.service.Interface
         Response UpdateAuthor(int id, Author author);
 
         Response InsertAuthor(Author author);
+
+        Response GetAllCategory();
     }
 }

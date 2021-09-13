@@ -12,5 +12,7 @@ namespace project.noname.data.Interface
         void InsertAuthor(string name, int idCategory);
 
         void UpdateAuthor(int id, string name, int idCategory);
+
+        List<Category> GetAllCategory();
     }
 }

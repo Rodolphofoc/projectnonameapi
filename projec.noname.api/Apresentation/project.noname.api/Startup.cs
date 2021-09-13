@@ -27,7 +27,7 @@ namespace project.noname.api
 
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "ProjectNoName", Version = "v1" , Description = "Esse Projeto tem como objetivo expor meus conhecimentos em .net e expor a forma de escrita de codigo obtida nesse periodo "});
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "ProjectNoName", Version = "v1" , Description = "Esse Projeto tem como objetivo expor meus conhecimentos em .net 3.1 com injeção de dependencia "});
             });
 
             RegisterServices(services);

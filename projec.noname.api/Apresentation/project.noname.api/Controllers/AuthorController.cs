@@ -53,6 +53,24 @@ namespace project.noname.api.Controllers
             }
         }
 
+        [HttpGet]
+        [Route("category")]
+        public IActionResult GetCategory()
+        {
+            try
+            {
+                var result = services.GetAllCategory();
+
+                return Response(result);
+
+            }
+            catch (Exception)
+            {
+
+                return StatusCode(500);
+            }
+        }
+
         [HttpPost]
         public IActionResult InsertAuthor([FromBody] AuthorViewModel author)
         {

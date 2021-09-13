@@ -17,6 +17,12 @@ namespace project.noname.service
         }
 
 
+
+        /// <summary>
+        /// Retorna um autor por id
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         public Response GetAuthor(int id)
         {
             _response = new Response();
@@ -33,6 +39,10 @@ namespace project.noname.service
             }
         }
 
+        /// <summary>
+        /// retorna a lista de autores
+        /// </summary>
+        /// <returns></returns>
         public Response GetAuthors()
         {
             _response = new Response();
@@ -59,7 +69,11 @@ namespace project.noname.service
             }
         }
 
-
+        /// <summary>
+        /// Insere um autor
+        /// </summary>
+        /// <param name="author"></param>
+        /// <returns></returns>
         public Response InsertAuthor(Author author)
         {
             _response = new Response();
@@ -76,6 +90,13 @@ namespace project.noname.service
             }
         }
 
+
+        /// <summary>
+        /// Atualiza um autor
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="author"></param>
+        /// <returns></returns>
         public Response UpdateAuthor(int id, Author author)
         {
             _response = new Response();
@@ -91,6 +112,29 @@ namespace project.noname.service
                 return _response;
             }
         }
+
+        /// <summary>
+        /// retorna todas as categorias cadastradas no banco de dados
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="author"></param>
+        /// <returns></returns>
+        public Response GetAllCategory()
+        {
+            _response = new Response();
+
+            try
+            {
+                _response.AddValue(authorRepository.GetAllCategory());
+                return _response;
+            }
+            catch (System.Exception e)
+            {
+                _response.AddNotification(new Notifications() { Message = e.Message });
+                return _response;
+            }
+        }
+
 
 
     }

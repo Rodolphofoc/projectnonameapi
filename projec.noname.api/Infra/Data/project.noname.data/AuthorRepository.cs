@@ -95,5 +95,18 @@ namespace project.noname.data
 
             Execute(query, new { Id = id, Name = name, IdCategory = idCategory });
         }
+
+        public List<Category> GetAllCategory()
+        {
+            var query = @"SELECT 
+                            ID_CATEGORY as IdCategory,
+                            NAME as CategoryName
+                         FROM CATEGORY";
+
+
+            var result = GetAll<Category>(query);
+
+            return result.ToList();
+        }
     }
 }
