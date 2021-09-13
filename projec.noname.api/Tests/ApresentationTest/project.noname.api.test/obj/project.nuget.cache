@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rh+I4ff6ph2NGmSSYKHflYF7tk7aMmbapOzebFxlIC2DwGUiFl0EbzNm6uOsH9S/fdYfGkw9MbaTWTXC0vXiHw==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\projectnonameapi\\projec.noname.api\\Tests\\ApresentationTest\\project.noname.api.test\\project.noname.api.test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rodol\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Rodol\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+E:\dev\.net\NewProject\Api\projec.noname.api\Infra\Core\project.noname.core\bin\Debug\netstandard2.0\project.noname.core.deps.json
+E:\dev\.net\NewProject\Api\projec.noname.api\Infra\Core\project.noname.core\bin\Debug\netstandard2.0\project.noname.core.dll
+E:\dev\.net\NewProject\Api\projec.noname.api\Infra\Core\project.noname.core\bin\Debug\netstandard2.0\project.noname.core.pdb
+E:\dev\.net\NewProject\Api\projec.noname.api\Infra\Core\project.noname.core\obj\Debug\netstandard2.0\project.noname.core.AssemblyInfoInputs.cache
+E:\dev\.net\NewProject\Api\projec.noname.api\Infra\Core\project.noname.core\obj\Debug\netstandard2.0\project.noname.core.AssemblyInfo.cs
+E:\dev\.net\NewProject\Api\projec.noname.api\Infra\Core\project.noname.core\obj\Debug\netstandard2.0\project.noname.core.csproj.CoreCompileInputs.cache
+E:\dev\.net\NewProject\Api\projec.noname.api\Infra\Core\project.noname.core\obj\Debug\netstandard2.0\project.noname.core.dll
+E:\dev\.net\NewProject\Api\projec.noname.api\Infra\Core\project.noname.core\obj\Debug\netstandard2.0\project.noname.core.pdb
+C:\dev\projectnonameapi\projec.noname.api\Infra\Core\project.noname.core\bin\Debug\netstandard2.0\project.noname.core.deps.json
+C:\dev\projectnonameapi\projec.noname.api\Infra\Core\project.noname.core\bin\Debug\netstandard2.0\project.noname.core.dll
+C:\dev\projectnonameapi\projec.noname.api\Infra\Core\project.noname.core\bin\Debug\netstandard2.0\project.noname.core.pdb
+C:\dev\projectnonameapi\projec.noname.api\Infra\Core\project.noname.core\obj\Debug\netstandard2.0\project.noname.core.csprojAssemblyReference.cache
+C:\dev\projectnonameapi\projec.noname.api\Infra\Core\project.noname.core\obj\Debug\netstandard2.0\project.noname.core.AssemblyInfoInputs.cache
+C:\dev\projectnonameapi\projec.noname.api\Infra\Core\project.noname.core\obj\Debug\netstandard2.0\project.noname.core.AssemblyInfo.cs
+C:\dev\projectnonameapi\projec.noname.api\Infra\Core\project.noname.core\obj\Debug\netstandard2.0\project.noname.core.csproj.CoreCompileInputs.cache
+C:\dev\projectnonameapi\projec.noname.api\Infra\Core\project.noname.core\obj\Debug\netstandard2.0\project.noname.core.dll
+C:\dev\projectnonameapi\projec.noname.api\Infra\Core\project.noname.core\obj\Debug\netstandard2.0\project.noname.core.pdb

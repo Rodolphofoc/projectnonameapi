@@ -1,0 +1,9 @@
+C:\dev\projectnonameapi\projec.noname.api\Tests\ApresentationTest\project.noname.api.test\bin\Debug\netstandard2.0\project.noname.api.test.deps.json
+C:\dev\projectnonameapi\projec.noname.api\Tests\ApresentationTest\project.noname.api.test\bin\Debug\netstandard2.0\project.noname.api.test.dll
+C:\dev\projectnonameapi\projec.noname.api\Tests\ApresentationTest\project.noname.api.test\bin\Debug\netstandard2.0\project.noname.api.test.pdb
+C:\dev\projectnonameapi\projec.noname.api\Tests\ApresentationTest\project.noname.api.test\obj\Debug\netstandard2.0\project.noname.api.test.csprojAssemblyReference.cache
+C:\dev\projectnonameapi\projec.noname.api\Tests\ApresentationTest\project.noname.api.test\obj\Debug\netstandard2.0\project.noname.api.test.AssemblyInfoInputs.cache
+C:\dev\projectnonameapi\projec.noname.api\Tests\ApresentationTest\project.noname.api.test\obj\Debug\netstandard2.0\project.noname.api.test.AssemblyInfo.cs
+C:\dev\projectnonameapi\projec.noname.api\Tests\ApresentationTest\project.noname.api.test\obj\Debug\netstandard2.0\project.noname.api.test.csproj.CoreCompileInputs.cache
+C:\dev\projectnonameapi\projec.noname.api\Tests\ApresentationTest\project.noname.api.test\obj\Debug\netstandard2.0\project.noname.api.test.dll
+C:\dev\projectnonameapi\projec.noname.api\Tests\ApresentationTest\project.noname.api.test\obj\Debug\netstandard2.0\project.noname.api.test.pdb
